@@ -51,9 +51,12 @@ pip install pandas matplotlib
 - Charts: volume trend, daily return distribution, price range trend
 
 ## 🖼️ Sample Charts
-Volume Trend<img width="380" height="188" alt="Screenshot 2026-09-11 213543" src="https://github.com/user-attachments/assets/5690bffd-c65b-4c1f-8749-0a8e8438caa9" />
-Return Distribution <img width="380" height="209" alt="Screenshot 2026-09-11 213613" src="https://github.com/user-attachments/assets/9dffb161-b8f6-410b-8921-cab00b752351" />
-Price Range Trend <img width="380" height="182" alt="Screenshot 2026-09-11 213632" src="https://github.com/user-attachments/assets/8aad7a99-7f2e-49cc-89ee-263a02846683" />
+Volume Trend
+<img width="380" height="188" alt="Screenshot 2026-09-11 213543" src="https://github.com/user-attachments/assets/5690bffd-c65b-4c1f-8749-0a8e8438caa9" />
+Return Distribution
+<img width="380" height="209" alt="Screenshot 2026-09-11 213613" src="https://github.com/user-attachments/assets/9dffb161-b8f6-410b-8921-cab00b752351" />
+Price Range Trend 
+<img width="380" height="182" alt="Screenshot 2026-09-11 213632" src="https://github.com/user-attachments/assets/8aad7a99-7f2e-49cc-89ee-263a02846683" />
 
 
 
